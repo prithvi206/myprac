@@ -1,4 +1,6 @@
 /* Java program for Merge Sort */
+import java.util.*;
+
 class MergeSort
 {
 	// Merges two subarrays of arr[].
